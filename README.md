@@ -8,3 +8,6 @@ Project using Selenium WebDriver and Java.
 
 # Installation
 git clone https://github.com/snailsack/ROIMotorsTest.git
+cd /ROIMotorsTest/selenium-test-roimotors/src/test/resources
+Project using chromedriver for Chrome 80
+chmod +x chromedriver
