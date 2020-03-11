@@ -7,7 +7,9 @@ Project using Selenium WebDriver and Java.
 [Eclipse IDE]("https://www.eclipse.org/downloads/")
 
 # Installation
-git clone https://github.com/snailsack/ROIMotorsTest.git
-cd /ROIMotorsTest/selenium-test-roimotors/src/test/resources
-Project using chromedriver for Chrome 80
-chmod +x chromedriver
+git clone https://github.com/snailsack/ROIMotorsTest.git  
+cd /ROIMotorsTest/selenium-test-roimotors/src/test/resources  
+Project using chromedriver for Chrome 80  
+From /ROIMotorsTest/selenium-test-roimotors/, run  
+chmod +x chromedriver  
+mvn clean test  
